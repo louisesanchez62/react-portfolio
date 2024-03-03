@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.3c1aaacd.css",
-    "main.js": "/react-portfolio/static/js/main.38afc2d6.js",
+    "main.css": "/react-portfolio/static/css/main.a336cfb2.css",
+    "main.js": "/react-portfolio/static/js/main.0284ac46.js",
     "static/js/787.c68c9d69.chunk.js": "/react-portfolio/static/js/787.c68c9d69.chunk.js",
     "static/media/iclub-informatique-slider-scaled.png": "/react-portfolio/static/media/iclub-informatique-slider-scaled.7d1cea3fe4c7ad724641.png",
     "static/media/data-analyst-data-scientist-formation-metier-2.png": "/react-portfolio/static/media/data-analyst-data-scientist-formation-metier-2.267fd9f679662395c122.png",
     "static/media/pdpcv3-modified.png": "/react-portfolio/static/media/pdpcv3-modified.5199db5d18b2d5362a9c.png",
     "static/media/ST.png": "/react-portfolio/static/media/ST.377f0d5e80d94ec9932a.png",
     "index.html": "/react-portfolio/index.html",
-    "main.3c1aaacd.css.map": "/react-portfolio/static/css/main.3c1aaacd.css.map",
-    "main.38afc2d6.js.map": "/react-portfolio/static/js/main.38afc2d6.js.map",
+    "main.a336cfb2.css.map": "/react-portfolio/static/css/main.a336cfb2.css.map",
+    "main.0284ac46.js.map": "/react-portfolio/static/js/main.0284ac46.js.map",
     "787.c68c9d69.chunk.js.map": "/react-portfolio/static/js/787.c68c9d69.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3c1aaacd.css",
-    "static/js/main.38afc2d6.js"
+    "static/css/main.a336cfb2.css",
+    "static/js/main.0284ac46.js"
   ]
 }
