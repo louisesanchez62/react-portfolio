@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.49d44b35.css",
-    "main.js": "/react-portfolio/static/js/main.d97b1090.js",
+    "main.js": "/react-portfolio/static/js/main.09fc2065.js",
     "static/js/787.c68c9d69.chunk.js": "/react-portfolio/static/js/787.c68c9d69.chunk.js",
     "static/media/spacesquad1PNG.PNG": "/react-portfolio/static/media/spacesquad1PNG.808bb405912f7d5f6db7.PNG",
     "static/media/remisediplome.jpg": "/react-portfolio/static/media/remisediplome.58a5d4b6b24e0a753064.jpg",
@@ -18,11 +18,11 @@
     "static/media/Harvest.JPG": "/react-portfolio/static/media/Harvest.dbc46f815918cf961257.JPG",
     "index.html": "/react-portfolio/index.html",
     "main.49d44b35.css.map": "/react-portfolio/static/css/main.49d44b35.css.map",
-    "main.d97b1090.js.map": "/react-portfolio/static/js/main.d97b1090.js.map",
+    "main.09fc2065.js.map": "/react-portfolio/static/js/main.09fc2065.js.map",
     "787.c68c9d69.chunk.js.map": "/react-portfolio/static/js/787.c68c9d69.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.49d44b35.css",
-    "static/js/main.d97b1090.js"
+    "static/js/main.09fc2065.js"
   ]
 }
