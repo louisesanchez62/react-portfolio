@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.ca28415b.css",
-    "main.js": "/react-portfolio/static/js/main.271df24c.js",
+    "main.js": "/react-portfolio/static/js/main.5e503a80.js",
     "static/js/787.c68c9d69.chunk.js": "/react-portfolio/static/js/787.c68c9d69.chunk.js",
+    "static/media/harvestdecor.jpg": "/react-portfolio/static/media/harvestdecor.e1eea8fe5374b688a75b.jpg",
     "static/media/spacesquad1PNG.PNG": "/react-portfolio/static/media/spacesquad1PNG.808bb405912f7d5f6db7.PNG",
     "static/media/remisediplome.jpg": "/react-portfolio/static/media/remisediplome.58a5d4b6b24e0a753064.jpg",
     "static/media/spacesquad2PNG.PNG": "/react-portfolio/static/media/spacesquad2PNG.f73443051c3b9ab23a82.PNG",
@@ -16,6 +17,7 @@
     "static/media/portfolio2.JPG": "/react-portfolio/static/media/portfolio2.890ad1a3f555dd74bb1e.JPG",
     "static/media/cv.JPG": "/react-portfolio/static/media/cv.b17fd74d6cbedb21df30.JPG",
     "static/media/javarpg.jpg": "/react-portfolio/static/media/javarpg.2bbcb2eb8e5b9c3a4c06.jpg",
+    "static/media/STdecor.jpg": "/react-portfolio/static/media/STdecor.8bc28d3238802297e766.jpg",
     "static/media/spaceinvadersPNG.PNG": "/react-portfolio/static/media/spaceinvadersPNG.747f333f8acbce0d668e.PNG",
     "static/media/portfolio1.JPG": "/react-portfolio/static/media/portfolio1.4901694dd2e0a23f265e.JPG",
     "static/media/reactapp1.JPG": "/react-portfolio/static/media/reactapp1.c724d066e294ed771577.JPG",
@@ -27,11 +29,11 @@
     "static/media/Harvest.JPG": "/react-portfolio/static/media/Harvest.dbc46f815918cf961257.JPG",
     "index.html": "/react-portfolio/index.html",
     "main.ca28415b.css.map": "/react-portfolio/static/css/main.ca28415b.css.map",
-    "main.271df24c.js.map": "/react-portfolio/static/js/main.271df24c.js.map",
+    "main.5e503a80.js.map": "/react-portfolio/static/js/main.5e503a80.js.map",
     "787.c68c9d69.chunk.js.map": "/react-portfolio/static/js/787.c68c9d69.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ca28415b.css",
-    "static/js/main.271df24c.js"
+    "static/js/main.5e503a80.js"
   ]
 }
