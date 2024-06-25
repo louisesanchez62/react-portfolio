@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.ca28415b.css",
-    "main.js": "/react-portfolio/static/js/main.c7f65afb.js",
+    "main.js": "/react-portfolio/static/js/main.6ea69e8d.js",
     "static/js/787.c68c9d69.chunk.js": "/react-portfolio/static/js/787.c68c9d69.chunk.js",
     "static/media/harvestdecor.jpg": "/react-portfolio/static/media/harvestdecor.e1eea8fe5374b688a75b.jpg",
     "static/media/spacesquad1PNG.PNG": "/react-portfolio/static/media/spacesquad1PNG.808bb405912f7d5f6db7.PNG",
@@ -23,17 +23,18 @@
     "static/media/reactapp1.JPG": "/react-portfolio/static/media/reactapp1.c724d066e294ed771577.JPG",
     "static/media/civ.jpg": "/react-portfolio/static/media/civ.3cec00236f3e9806992d.jpg",
     "static/media/iut.jpg": "/react-portfolio/static/media/iut.9169c3ec9d9107f94b8a.jpg",
+    "static/media/androidstudio1.JPG": "/react-portfolio/static/media/androidstudio1.a63b6df861d2a169e85d.JPG",
     "static/media/android.jpg": "/react-portfolio/static/media/android.79a1ae6e941460ae35ee.jpg",
     "static/media/rpg1PNG.PNG": "/react-portfolio/static/media/rpg1PNG.0838e8b26d3eb1f34bff.PNG",
     "static/media/rpg2PNG.PNG": "/react-portfolio/static/media/rpg2PNG.9e2977e150e02916ca1e.PNG",
     "static/media/Harvest.JPG": "/react-portfolio/static/media/Harvest.dbc46f815918cf961257.JPG",
     "index.html": "/react-portfolio/index.html",
     "main.ca28415b.css.map": "/react-portfolio/static/css/main.ca28415b.css.map",
-    "main.c7f65afb.js.map": "/react-portfolio/static/js/main.c7f65afb.js.map",
+    "main.6ea69e8d.js.map": "/react-portfolio/static/js/main.6ea69e8d.js.map",
     "787.c68c9d69.chunk.js.map": "/react-portfolio/static/js/787.c68c9d69.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ca28415b.css",
-    "static/js/main.c7f65afb.js"
+    "static/js/main.6ea69e8d.js"
   ]
 }
