@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.b71c7c82.css",
-    "main.js": "/react-portfolio/static/js/main.c98e67b7.js",
+    "main.js": "/react-portfolio/static/js/main.1d0fd16d.js",
     "static/js/787.c68c9d69.chunk.js": "/react-portfolio/static/js/787.c68c9d69.chunk.js",
     "static/media/harvestdecor.jpg": "/react-portfolio/static/media/harvestdecor.e1eea8fe5374b688a75b.jpg",
     "static/media/foules.png": "/react-portfolio/static/media/foules.a9b33e6e56ede087804d.png",
@@ -11,6 +11,8 @@
     "static/media/efreicampus-8334.jpg": "/react-portfolio/static/media/efreicampus-8334.c9e751de18b85bd5f9d3.jpg",
     "static/media/profilep.png": "/react-portfolio/static/media/profilep.57d6d30e8bf265fff530.png",
     "static/media/ST.png": "/react-portfolio/static/media/ST.377f0d5e80d94ec9932a.png",
+    "static/media/GamesOnWeb.png": "/react-portfolio/static/media/GamesOnWeb.86e6a8d4013ecbe8424e.png",
+    "static/media/GamesOnWebMenu.png": "/react-portfolio/static/media/GamesOnWebMenu.b8f02d980462b4b0d709.png",
     "static/media/diplome2.jpg": "/react-portfolio/static/media/diplome2.4619409608f57fa897db.jpg",
     "static/media/cassebriquePNG.PNG": "/react-portfolio/static/media/cassebriquePNG.5d89ba4421e163ff58da.PNG",
     "static/media/VsMontre.png": "/react-portfolio/static/media/VsMontre.ab10dcaec902ba062ab2.png",
@@ -21,26 +23,32 @@
     "static/media/board.jpg": "/react-portfolio/static/media/board.807b3fdca3da81aa0878.jpg",
     "static/media/javarpg.jpg": "/react-portfolio/static/media/javarpg.2bbcb2eb8e5b9c3a4c06.jpg",
     "static/media/STdecor.jpg": "/react-portfolio/static/media/STdecor.8bc28d3238802297e766.jpg",
+    "static/media/androidReservations.png": "/react-portfolio/static/media/androidReservations.fb0a23dcfaadc466db49.png",
     "static/media/spaceinvadersPNG.PNG": "/react-portfolio/static/media/spaceinvadersPNG.747f333f8acbce0d668e.PNG",
     "static/media/portfolio1.JPG": "/react-portfolio/static/media/portfolio1.4901694dd2e0a23f265e.JPG",
+    "static/media/androidPageSnow.png": "/react-portfolio/static/media/androidPageSnow.feb561ef7c5db080466a.png",
     "static/media/reactapp1.JPG": "/react-portfolio/static/media/reactapp1.c724d066e294ed771577.JPG",
     "static/media/cv.png": "/react-portfolio/static/media/cv.f8366cbb7088268e3460.png",
     "static/media/civ.jpg": "/react-portfolio/static/media/civ.3cec00236f3e9806992d.jpg",
+    "static/media/androidPageProduit.png": "/react-portfolio/static/media/androidPageProduit.113d25048cf3ebf44328.png",
+    "static/media/androidConfirmation.png": "/react-portfolio/static/media/androidConfirmation.d5367db33b32ecb9c051.png",
     "static/media/demo_porte.png": "/react-portfolio/static/media/demo_porte.dba61acf565c55772b7c.png",
     "static/media/couverture.png": "/react-portfolio/static/media/couverture.200159e911727ca783a2.png",
+    "static/media/androidInscription.png": "/react-portfolio/static/media/androidInscription.38a423b5e83ef549e42a.png",
     "static/media/iut.jpg": "/react-portfolio/static/media/iut.9169c3ec9d9107f94b8a.jpg",
     "static/media/androidstudio1.JPG": "/react-portfolio/static/media/androidstudio1.a63b6df861d2a169e85d.JPG",
     "static/media/android.jpg": "/react-portfolio/static/media/android.79a1ae6e941460ae35ee.jpg",
     "static/media/rpg1PNG.PNG": "/react-portfolio/static/media/rpg1PNG.0838e8b26d3eb1f34bff.PNG",
+    "static/media/androidmain.png": "/react-portfolio/static/media/androidmain.e7f94af6f57f41ec89d7.png",
     "static/media/rpg2PNG.PNG": "/react-portfolio/static/media/rpg2PNG.9e2977e150e02916ca1e.PNG",
     "static/media/Harvest.JPG": "/react-portfolio/static/media/Harvest.dbc46f815918cf961257.JPG",
     "index.html": "/react-portfolio/index.html",
     "main.b71c7c82.css.map": "/react-portfolio/static/css/main.b71c7c82.css.map",
-    "main.c98e67b7.js.map": "/react-portfolio/static/js/main.c98e67b7.js.map",
+    "main.1d0fd16d.js.map": "/react-portfolio/static/js/main.1d0fd16d.js.map",
     "787.c68c9d69.chunk.js.map": "/react-portfolio/static/js/787.c68c9d69.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b71c7c82.css",
-    "static/js/main.c98e67b7.js"
+    "static/js/main.1d0fd16d.js"
   ]
 }
