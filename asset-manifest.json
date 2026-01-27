@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.c9f4991f.css",
-    "main.js": "/react-portfolio/static/js/main.fc7e51c1.js",
-    "static/js/787.c68c9d69.chunk.js": "/react-portfolio/static/js/787.c68c9d69.chunk.js",
+    "main.css": "/react-portfolio/static/css/main.9208c2fb.css",
+    "main.js": "/react-portfolio/static/js/main.8eb304e2.js",
+    "static/js/787.68dfb0a3.chunk.js": "/react-portfolio/static/js/787.68dfb0a3.chunk.js",
     "static/media/lucioles.jpg": "/react-portfolio/static/media/lucioles.60fe3205e4f338a06bca.jpg",
     "static/media/vache.png": "/react-portfolio/static/media/vache.47e8c83c22ec53f0e460.png",
     "static/media/harvestdecor.jpg": "/react-portfolio/static/media/harvestdecor.e1eea8fe5374b688a75b.jpg",
@@ -22,6 +22,7 @@
     "static/media/GamesOnWeb.png": "/react-portfolio/static/media/GamesOnWeb.86e6a8d4013ecbe8424e.png",
     "static/media/GamesOnWebMenu.png": "/react-portfolio/static/media/GamesOnWebMenu.b8f02d980462b4b0d709.png",
     "static/media/cassebriquePNG.PNG": "/react-portfolio/static/media/cassebriquePNG.5d89ba4421e163ff58da.PNG",
+    "static/media/guidedbytests.jpg": "/react-portfolio/static/media/guidedbytests.1447afb39576b0abfbf0.jpg",
     "static/media/VsMontre.png": "/react-portfolio/static/media/VsMontre.ab10dcaec902ba062ab2.png",
     "static/media/reactapp3.JPG": "/react-portfolio/static/media/reactapp3.898346ae334387c52cef.JPG",
     "static/media/reactapp2.JPG": "/react-portfolio/static/media/reactapp2.d2a6a1992821d9c5422b.JPG",
@@ -40,12 +41,14 @@
     "static/media/reactapp1.JPG": "/react-portfolio/static/media/reactapp1.c724d066e294ed771577.JPG",
     "static/media/Amadeus.png": "/react-portfolio/static/media/Amadeus.edc1429c0d39d25bd985.png",
     "static/media/cv.png": "/react-portfolio/static/media/cv.f8366cbb7088268e3460.png",
+    "static/media/cleancode.jpg": "/react-portfolio/static/media/cleancode.4d4e705b11b7e96b3633.jpg",
     "static/media/niege.png": "/react-portfolio/static/media/niege.8543dcbb903a34db98af.png",
     "static/media/civ.jpg": "/react-portfolio/static/media/civ.3cec00236f3e9806992d.jpg",
     "static/media/androidPageProduit.png": "/react-portfolio/static/media/androidPageProduit.113d25048cf3ebf44328.png",
     "static/media/androidConfirmation.png": "/react-portfolio/static/media/androidConfirmation.d5367db33b32ecb9c051.png",
     "static/media/GOW.jpg": "/react-portfolio/static/media/GOW.e18a85f4203500c0645e.jpg",
     "static/media/demo_porte.png": "/react-portfolio/static/media/demo_porte.dba61acf565c55772b7c.png",
+    "static/media/DDD.jpg": "/react-portfolio/static/media/DDD.f1e0e6aeb95d78fb66e0.jpg",
     "static/media/couverture.png": "/react-portfolio/static/media/couverture.200159e911727ca783a2.png",
     "static/media/cannesIA.jpg": "/react-portfolio/static/media/cannesIA.9079fe188309b2d0e766.jpg",
     "static/media/science.jpg": "/react-portfolio/static/media/science.f6d44d81aea6cb3b85ab.jpg",
@@ -59,12 +62,12 @@
     "static/media/rpg2PNG.PNG": "/react-portfolio/static/media/rpg2PNG.9e2977e150e02916ca1e.PNG",
     "static/media/Harvest.JPG": "/react-portfolio/static/media/Harvest.dbc46f815918cf961257.JPG",
     "index.html": "/react-portfolio/index.html",
-    "main.c9f4991f.css.map": "/react-portfolio/static/css/main.c9f4991f.css.map",
-    "main.fc7e51c1.js.map": "/react-portfolio/static/js/main.fc7e51c1.js.map",
-    "787.c68c9d69.chunk.js.map": "/react-portfolio/static/js/787.c68c9d69.chunk.js.map"
+    "main.9208c2fb.css.map": "/react-portfolio/static/css/main.9208c2fb.css.map",
+    "main.8eb304e2.js.map": "/react-portfolio/static/js/main.8eb304e2.js.map",
+    "787.68dfb0a3.chunk.js.map": "/react-portfolio/static/js/787.68dfb0a3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c9f4991f.css",
-    "static/js/main.fc7e51c1.js"
+    "static/css/main.9208c2fb.css",
+    "static/js/main.8eb304e2.js"
   ]
 }
