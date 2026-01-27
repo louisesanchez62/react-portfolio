@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.c9f4991f.css",
-    "main.js": "/react-portfolio/static/js/main.a94dacdc.js",
+    "main.js": "/react-portfolio/static/js/main.fc7e51c1.js",
     "static/js/787.c68c9d69.chunk.js": "/react-portfolio/static/js/787.c68c9d69.chunk.js",
     "static/media/lucioles.jpg": "/react-portfolio/static/media/lucioles.60fe3205e4f338a06bca.jpg",
     "static/media/vache.png": "/react-portfolio/static/media/vache.47e8c83c22ec53f0e460.png",
@@ -44,9 +44,13 @@
     "static/media/civ.jpg": "/react-portfolio/static/media/civ.3cec00236f3e9806992d.jpg",
     "static/media/androidPageProduit.png": "/react-portfolio/static/media/androidPageProduit.113d25048cf3ebf44328.png",
     "static/media/androidConfirmation.png": "/react-portfolio/static/media/androidConfirmation.d5367db33b32ecb9c051.png",
+    "static/media/GOW.jpg": "/react-portfolio/static/media/GOW.e18a85f4203500c0645e.jpg",
     "static/media/demo_porte.png": "/react-portfolio/static/media/demo_porte.dba61acf565c55772b7c.png",
     "static/media/couverture.png": "/react-portfolio/static/media/couverture.200159e911727ca783a2.png",
+    "static/media/cannesIA.jpg": "/react-portfolio/static/media/cannesIA.9079fe188309b2d0e766.jpg",
+    "static/media/science.jpg": "/react-portfolio/static/media/science.f6d44d81aea6cb3b85ab.jpg",
     "static/media/androidInscription.png": "/react-portfolio/static/media/androidInscription.38a423b5e83ef549e42a.png",
+    "static/media/rivieraJUG.jpg": "/react-portfolio/static/media/rivieraJUG.a18cec11024887c14cc4.jpg",
     "static/media/iut.jpg": "/react-portfolio/static/media/iut.9169c3ec9d9107f94b8a.jpg",
     "static/media/androidstudio1.JPG": "/react-portfolio/static/media/androidstudio1.a63b6df861d2a169e85d.JPG",
     "static/media/android.jpg": "/react-portfolio/static/media/android.79a1ae6e941460ae35ee.jpg",
@@ -56,11 +60,11 @@
     "static/media/Harvest.JPG": "/react-portfolio/static/media/Harvest.dbc46f815918cf961257.JPG",
     "index.html": "/react-portfolio/index.html",
     "main.c9f4991f.css.map": "/react-portfolio/static/css/main.c9f4991f.css.map",
-    "main.a94dacdc.js.map": "/react-portfolio/static/js/main.a94dacdc.js.map",
+    "main.fc7e51c1.js.map": "/react-portfolio/static/js/main.fc7e51c1.js.map",
     "787.c68c9d69.chunk.js.map": "/react-portfolio/static/js/787.c68c9d69.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c9f4991f.css",
-    "static/js/main.a94dacdc.js"
+    "static/js/main.fc7e51c1.js"
   ]
 }
